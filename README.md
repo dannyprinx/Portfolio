@@ -63,7 +63,8 @@ A creative and detail-oriented **UI/UX & Graphic Designer** with strong expertis
 
 ## 📂 Projects
 
-- **PDF App UI/UX Design** — Interface for document viewing and management  
+- **PDF App UI/UX Design** — Interface for document viewing and management
+- Furniture Cluadi E-Commerce website redesign 
 - **VPN App UI** — Focused on security-driven design and smooth flows  
 - **Surgicure Hospital Marketing Designs** — Social media awareness visuals  
 
