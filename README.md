@@ -21,7 +21,10 @@ A creative and detail-oriented **UI/UX & Graphic Designer** with strong expertis
 - Wireframing  
 - Prototyping  
 - Typography  
-- Layout Design  
+- Layout Design
+- Upwork showcase
+- Fiver show case
+- website mockup (Desktop & Mobile) 
 - Team Collaboration & Communication  
 
 ### Tools
