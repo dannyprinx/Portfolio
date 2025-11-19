@@ -23,7 +23,7 @@ A creative and detail-oriented **UI/UX & Graphic Designer** with strong expertis
 - Typography  
 - Layout Design
 - Upwork showcase
-- Fiver show case
+- Fiver showcase
 - website mockup (Desktop & Mobile) 
 - Team Collaboration & Communication  
 
